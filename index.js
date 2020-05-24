@@ -52,7 +52,7 @@ function final() {
     AND DAMSEL WAS HER NAME</p>
     <img src='damsel.png' alt='ALWAYS WATCHING'>
     <img src='damsel2.png' alt='The Northern Group Is Dead And It Is My Fault'>
-    <img src='damselLocation.png' alt='Keep Your Distance Or It Will Get You Too'>
+    <img src='damselLocation.PNG' alt='Keep Your Distance Or It Will Get You Too'>
     <img src='combination1.png' alt='left side'>
     </div>
     `
